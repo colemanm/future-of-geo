@@ -83,8 +83,16 @@ map of neighborhoods I made for a friend, can send a link - even embed a map on 
 
 this is cool:
 
-smart (and passionate) people can volunteer to help
+smart (and passionate) people can volunteer to help (citizen engagement)
 
-data gets better
+data improves
 
 ---
+
+transparency
+
+honest use of taxpayer dollars, publishing tools make it easier than sharing historically has been
+
+---
+
+
