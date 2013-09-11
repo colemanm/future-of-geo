@@ -9,7 +9,13 @@ body {
 
 .green { color:#78a22f; }
 .red { color:#ff1818; }
+.white { color:#fff; }
+
+.bg-magenta { background-color:#ff1759; }
+
 .b { font-weight:bold; }
+
+.right { text-align:right; }
 
 h1 { font-size:200px; }
 h2 { font-size:150px; }
@@ -22,7 +28,7 @@ em, a {
 }
 
 a {
-  background: #ff1759;
+  background:#ff1759;
   color:#000;
   text-decoration:none;
 }
