@@ -103,6 +103,6 @@ industries like: real estate, humanitarian aid / disaster response, telecommunic
 
 ---
 
-
+mappers brought into the fold from different interests: cycling, kayaking, bird watching, hiking, skiing
 
 ---
