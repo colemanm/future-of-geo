@@ -95,4 +95,14 @@ honest use of taxpayer dollars, publishing tools make it easier than sharing his
 
 ---
 
+geo is spreading
 
+---
+
+industries like: real estate, humanitarian aid / disaster response, telecommunications, market research, on and on
+
+---
+
+
+
+---
