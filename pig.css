@@ -18,7 +18,7 @@ body {
 .b { font-weight:bold; }
 .spread { letter-spacing: 35px; }
 .shadow { text-shadow:5px 5px #fff; }
-.dk-shadow { text-shadow:5px 5px #111; }
+.dk-shadow { text-shadow:3px 3px #111; }
 
 .right { text-align:right; }
 .bottom { margin-top:500px; }
@@ -38,11 +38,10 @@ a {
   background:#ff1759;
   color:#000;
   text-decoration:none;
+  padding:15px;
 }
 
 li { list-style:none; }
-
-/*img { width:100%; }*/
 
 div.slide {
   padding:3%;
