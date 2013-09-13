@@ -18,9 +18,11 @@ body {
 .b { font-weight:bold; }
 .spread { letter-spacing: 35px; }
 .shadow { text-shadow:5px 5px #fff; }
+.dk-shadow { text-shadow:5px 5px #111; }
 
 .right { text-align:right; }
 .bottom { margin-top:500px; }
+.m-top {margin-top:150px; }
 
 h1 { font-size:200px; }
 h2 { font-size:150px; }
